@@ -1,0 +1,9 @@
+{
+    "test_accuracy": 0.21610169112682343,
+    "test_loss": 2.0542094707489014,
+    "number_of_classes": 9,
+    "image_size": [
+        224,
+        224
+    ]
+}

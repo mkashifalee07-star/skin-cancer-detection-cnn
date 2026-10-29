@@ -1,0 +1,11 @@
+image,actual_label,predicted_label,confidence,status
+ISIC_0011185.jpg,seborrheic keratosis,melanoma,0.1627107858657837,Incorrect
+ISIC_0031201.jpg,vascular lesion,pigmented benign keratosis,0.16777564585208893,Incorrect
+ISIC_0024446.jpg,pigmented benign keratosis,pigmented benign keratosis,0.160570427775383,Correct
+ISIC_0026056.jpg,basal cell carcinoma,pigmented benign keratosis,0.1600952297449112,Incorrect
+ISIC_0032919.jpg,vascular lesion,pigmented benign keratosis,0.16325391829013824,Incorrect
+ISIC_0024382.jpg,pigmented benign keratosis,pigmented benign keratosis,0.16274480521678925,Correct
+ISIC_0000315.jpg,nevus,pigmented benign keratosis,0.17038124799728394,Incorrect
+ISIC_0028120.jpg,pigmented benign keratosis,pigmented benign keratosis,0.16792483627796173,Correct
+ISIC_0009882.jpg,melanoma,pigmented benign keratosis,0.1655064970254898,Incorrect
+ISIC_0025452.jpg,vascular lesion,pigmented benign keratosis,0.16537727415561676,Incorrect
